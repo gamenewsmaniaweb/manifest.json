@@ -1,7 +1,7 @@
 {
   "name": "Game News Mania",
     "short_name": "Game News Mania",
-      "start_url": "https://gamenewsmania.blogspot.com/",
+      "start_url": "/?utm_source=homescreen",
         "display": "standalone",
           "background_color": "#152536",
             "theme_color": "#152536",
